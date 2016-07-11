@@ -50,7 +50,7 @@ Finally, there is a question about gamma.
 So what are the units for gamma?
 Well, if you look at the exponential, which decays,
 it has e to the minus i omega t, and then it
-has the imaginary part gamma t.
+has the real (slip of tongue) part gamma t.
 So gamma is really a temporal decay,
 and there is no question about frequency and angular
 frequency.
