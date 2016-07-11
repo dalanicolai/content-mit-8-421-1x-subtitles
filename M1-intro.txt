@@ -381,7 +381,7 @@ This was the discovery of quantum electrodynamics.
 And, we know that precision always
 becomes a tool, a tool to control atomic systems,
 control quantum mechanics with more precision.
-For instance, if you can completely
+For instance, if you can completely resolve
 hyperfine structure-- you can prepare atoms
 in a certain hyperfine state.
 If you don't have the resolution, you can't do that.
